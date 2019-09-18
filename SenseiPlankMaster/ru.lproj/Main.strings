@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Biu-H5-5th"; */
+"Biu-H5-5th.normalTitle" = "Назад";
+
+/* Class = "UILabel"; text = "Did you succeed?"; ObjectID = "Cqb-sk-FaT"; */
+"Cqb-sk-FaT.text" = "Удалось сделать планку?";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "Fj0-a2-FLz"; */
+"Fj0-a2-FLz.normalTitle" = "Нет";
+
+/* Class = "UILabel"; text = "sec"; ObjectID = "GeW-Jn-oFe"; */
+"GeW-Jn-oFe.text" = "сек";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zqw-7Y-BjN"; */
+"Zqw-7Y-BjN.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cDE-Jl-2yp"; */
+"cDE-Jl-2yp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "cdX-Qe-IVl"; */
+"cdX-Qe-IVl.text" = "30";
+
+/* Class = "UILabel"; text = "Prepare..."; ObjectID = "iXT-7i-how"; */
+"iXT-7i-how.text" = "Подготовка...";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "ij1-Co-BOA"; */
+"ij1-Co-BOA.normalTitle" = "Да";
+
+/* Class = "UILabel"; text = "Last workout"; ObjectID = "nWb-ED-Y6p"; */
+"nWb-ED-Y6p.text" = "Last workout";
+
+/* Class = "UILabel"; text = "Sensei Plank Master"; ObjectID = "vts-OS-k6S"; */
+"vts-OS-k6S.text" = "Sensei Plank Master";
+
+/* Class = "UILabel"; text = "Sensei Plank Master"; ObjectID = "xt9-LQ-mz3"; */
+"xt9-LQ-mz3.text" = "Sensei Plank Master";
